@@ -45,18 +45,6 @@
 - **[MyContactsFX](https://github.com/JeanRi0s/MyContactsFX)** — Agenda de contatos em Java com interface JavaFX e persistência em SQLite
 
 ---
-
-<div align="center">
-
-### 📊 Estatísticas do GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=JeanRi0s&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanRi0s&layout=compact&theme=dark&hide_border=true" alt="Top langs" height="165"/>
-
-</div>
-
----
-
 ### 📫 Contato
 
 - GitHub: [@JeanRi0s](https://github.com/JeanRi0s)
