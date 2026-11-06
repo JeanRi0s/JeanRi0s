@@ -3,9 +3,9 @@
 # Olá, eu sou o Emanuel 👋
 
 🎓 Estudante de **Engenharia Mecatrônica**
-🔧 **Sistemas embarcados** • 💻 **Back end Java** 
+🔧 **Sistemas embarcados** • 💻 **Back end Java** • 🐍 **Python e Visão Computacional**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Sistemas+Embarcados;Desenvolvimento+Back+End+Java;Projeto+de+M%C3%A1quinas+(CAD);Automa%C3%A7%C3%A3o+e+Controle" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Sistemas+Embarcados;Desenvolvimento+Back+End+Java;Python;Vis%C3%A3o+Computacional" alt="Typing SVG" />
 
 </div>
 
@@ -16,6 +16,8 @@
 **Programação & Sistemas Embarcados**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -25,10 +27,10 @@
 
 ### 🔭 Áreas de interesse
 
-- ⚙️ Projeto de máquinas (modelagem 3D, desenho técnico)
 - 🔌 Sistemas embarcados e firmware (ESP32, microcontroladores)
-- 🎛️ Automação e controle (acionamentos, controle digital)
 - 💻 Desenvolvimento back end em Java
+- 🐍 Python
+- 👁️ Visão computacional
 - 🔗 Integração entre hardware e software
 
 ---
